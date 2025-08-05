@@ -156,6 +156,6 @@ The system allows users to register and log in independently.
 
 ### 🚀 Project Demo
 
-🔗 **Live Demo:** [Click here to view the project](https://your-demo-link.com)
+🔗 **Live Demo:** [Click here to view the project](flexipos4.vercel.app)
 
 > Replace the link above with your actual deployed project link (e.g., Vercel, Netlify, or any live server).
