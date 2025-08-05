@@ -1,0 +1,69 @@
+[
+  {
+    "_id": "688cb7b07d131627ab7d21c4",
+    "name": "juisa",
+    "description": "ss",
+    "price": 99,
+    "cost": 99,
+    "barcode": "99",
+    "category": "fruit",
+    "stock": 49,
+    "minStock": 99,
+    "createdAt": "2025-08-01T12:48:48.580Z",
+    "updatedAt": "2025-08-01T12:48:48.583Z",
+    "__v": 0
+  },
+  {
+    "_id": "688cc481660a99a5c3637522",
+    "name": "banana",
+    "description": "good",
+    "price": 22,
+    "cost": 22,
+    "barcode": "26",
+    "category": "fruit",
+    "stock": -2,
+    "minStock": 2,
+    "createdAt": "2025-08-01T13:43:29.522Z",
+    "updatedAt": "2025-08-01T13:43:29.542Z",
+    "__v": 0
+  },
+  {
+    "_id": "688e42fff4ce249976c21ae5",
+    "name": "cofee",
+    "description": "good",
+    "price": 50,
+    "cost": 33,
+    "category": "drink",
+    "stock": 0,
+    "minStock": 2,
+    "createdAt": "2025-08-02T16:55:27.150Z",
+    "updatedAt": "2025-08-02T16:55:27.158Z",
+    "__v": 0
+  },
+  {
+    "_id": "688e4397f4ce249976c21b4b",
+    "name": "cap",
+    "description": "good",
+    "price": 2,
+    "cost": 0.96,
+    "category": "kit",
+    "stock": 19,
+    "minStock": 0,
+    "createdAt": "2025-08-02T16:57:59.352Z",
+    "updatedAt": "2025-08-02T16:57:59.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "6890f7887de02e27a1a91928",
+    "name": "Apple",
+    "description": "Sweats Apple",
+    "price": 20,
+    "cost": 15,
+    "category": "Fruite",
+    "stock": 48,
+    "minStock": 5,
+    "createdAt": "2025-08-04T18:10:16.966Z",
+    "updatedAt": "2025-08-04T18:10:17.000Z",
+    "__v": 0
+  }
+]

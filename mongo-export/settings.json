@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "688f5e3def3f825f4a0dc9d0",
+    "singleton": true,
+    "shopName": "My POS Store",
+    "taxRate": 6,
+    "currencySymbol": "$",
+    "createdAt": "2025-08-03T13:03:57.414Z",
+    "updatedAt": "2025-08-04T21:38:02.998Z",
+    "__v": 0
+  }
+]

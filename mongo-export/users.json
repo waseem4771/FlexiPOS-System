@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "688aacd0182b1dc74b4643f6",
+    "name": "Waseem khan N",
+    "email": "waseemkhan771771@gmail.com",
+    "password": "$2b$10$p/Y7h27FimFnwRlbYLvkX.ndvAQUl23rP7VKe0KFekc8AC6Rqy3Pi",
+    "createdAt": "2025-07-30T23:37:52.886Z",
+    "__v": 0,
+    "updatedAt": "2025-08-03T13:15:09.412Z",
+    "isActive": true,
+    "role": "customer"
+  },
+  {
+    "_id": "688cc34a9e70fc2a157c3558",
+    "name": "ali",
+    "email": "ali1@gmail.com",
+    "password": "$2b$10$72ra49EjLTfQy8Jn4UtTIOJjHvqVlWDPNpd3Fg1wVl/BALfLwzFXi",
+    "role": "admin",
+    "__v": 0,
+    "updatedAt": "2025-08-04T21:37:59.438Z",
+    "isActive": true
+  },
+  {
+    "_id": "688cc514660a99a5c363754b",
+    "name": "Waseem Akram",
+    "email": "waseem71@gmail.com",
+    "password": "$2b$10$BLWAADeAzZe9GBTSzPgxZO45abEmONHva1CAtaFhYptqwZqkZo6FW",
+    "role": "cashier",
+    "isActive": true,
+    "createdAt": "2025-08-01T13:45:56.557Z",
+    "updatedAt": "2025-08-01T13:45:56.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "688eaa36d0732bb72fefb07f",
+    "name": "thomas shelby",
+    "email": "thomasshelby6@gmail.com",
+    "password": "$2b$10$bYLlEjN10AyjHmGDFdD6quTY9bKBJHb4NY011XKjt0V4V1I87ZBS2",
+    "role": "cashier",
+    "isActive": true,
+    "createdAt": "2025-08-03T00:15:50.293Z",
+    "updatedAt": "2025-08-03T00:15:50.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "688eac63d0732bb72fefb08f",
+    "name": "Ali",
+    "email": "ali11@gmail.com",
+    "password": "$2b$10$c3fO71GzxxOKN4IDPt0bvOXKxFKEYPlQntsSQqkWlIUUh9sA9nsym",
+    "role": "manager",
+    "isActive": true,
+    "createdAt": "2025-08-03T00:25:07.207Z",
+    "updatedAt": "2025-08-03T00:38:39.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "688eafe267535eca6587ddde",
+    "name": "Faraz Kha",
+    "email": "faraz322@gmail.com",
+    "password": "$2b$10$JkJhIHKrem/3Y1xmpZ8.VeZUtkgdA8GWPH1ZAAam9g8rKrtndtvf2",
+    "role": "inventory_manager",
+    "isActive": true,
+    "createdAt": "2025-08-03T00:40:02.514Z",
+    "updatedAt": "2025-08-04T21:50:24.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "688f640738d75b35e0d80a53",
+    "name": "jutt",
+    "email": "abdullah1@gmail.com",
+    "password": "$2b$10$ikXjTuSKFot6Cs4lJ5RN5.EmH3UHucYLY9aVw1XyCWIAqZkM2TVbW",
+    "role": "customer",
+    "isActive": true,
+    "createdAt": "2025-08-03T13:28:39.496Z",
+    "updatedAt": "2025-08-03T14:23:31.507Z",
+    "__v": 0
+  },
+  {
+    "_id": "688f78c4e08535e73af7d4b6",
+    "name": "abd",
+    "email": "abd1@gmail.com",
+    "password": "$2b$10$hvLYgCHApC6FHrc.eLcMfOxsAvQTz0.QHbYqSWjqWmOt4n3sI5rvK",
+    "role": "customer",
+    "isActive": true,
+    "createdAt": "2025-08-03T14:57:08.461Z",
+    "updatedAt": "2025-08-03T14:57:08.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "689131cf7de02e27a1a91e2f",
+    "name": "usama",
+    "email": "usama1@gmail.com",
+    "password": "$2b$10$2veZ83y7uA48CdgOHOv55.YJKPPbos.EeQ7BiD9dj.g.r55iEOCm.",
+    "role": "customer",
+    "isActive": true,
+    "createdAt": "2025-08-04T22:18:55.078Z",
+    "updatedAt": "2025-08-04T22:18:55.078Z",
+    "__v": 0
+  }
+]
