@@ -47,7 +47,7 @@
 // File Path: src/app/api/sales/recent/route.js
 
 import { NextResponse } from 'next/server';
-import connectDB from '@/lib/dbConnect'; // 1. Sahi DB connection file istemal karein
+import connectDB from '@/lib/db'; // 1. Sahi DB connection file istemal karein
 import Order from '@/models/Order';
 import User from '@/models/User'; // 2. User model ko import karna zaroori hai populate ke liye
 

@@ -60,7 +60,7 @@
 import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/app/api/auth/[...nextauth]/route'; // NextAuth options import karein
-import connectDB from '@/lib/dbConnect'; // Sahi DB connection file istemal karein (lib/db.js)
+import connectDB from '@/lib/db'; // Sahi DB connection file istemal karein (lib/db.js)
 import Order from '@/models/Order';
 import Product from '@/models/Product';
 import User from '@/models/User'; // User model bhi import karein, aage kaam aa sakta hai

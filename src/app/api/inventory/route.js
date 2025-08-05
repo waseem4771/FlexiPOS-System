@@ -62,7 +62,7 @@
 // File Path: src/app/api/inventory/route.js
 
 import { NextResponse } from 'next/server';
-import connectDB from '@/lib/dbConnect';
+import connectDB from '@/lib/db';
 import Product from '@/models/Product';
 // import Category from '@/models/Category'; // <--- YEH LINE HATA DI GAYI HAI taake "Module not found" ka error na aaye
 

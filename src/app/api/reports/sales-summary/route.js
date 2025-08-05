@@ -226,7 +226,7 @@
 import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/app/api/auth/[...nextauth]/route';
-import connectDB from '@/lib/dbConnect'; // Assuming this is your DB connection helper
+import connectDB from '@/lib/db'; // Assuming this is your DB connection helper
 import Order from '@/models/Order';
 import Product from '@/models/Product';
 import mongoose from 'mongoose';
