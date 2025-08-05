@@ -3,7 +3,7 @@
 import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '@/app/api/auth/[...nextauth]/route';
-import connectDB from '@/lib/db';
+import connectDB from '@/lib/dbConnect';
 import Supplier from '@/models/Supplier';
 
 export const dynamic = 'force-dynamic';

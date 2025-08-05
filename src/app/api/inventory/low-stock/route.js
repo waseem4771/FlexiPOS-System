@@ -1,5 +1,5 @@
 // Ahem Note: Humne pehle db.js ko 'lib' folder mein rakha tha, isliye wohi path use karain
-import connectDB from '@/lib/db'; 
+import connectDB from '@/lib/dbConnect'; 
 import Product from '@/models/Product';
 import { NextResponse } from 'next/server';
 

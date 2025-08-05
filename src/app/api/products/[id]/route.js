@@ -78,7 +78,7 @@
 import { NextResponse } from 'next/server';
 import { getServerSession } from "next-auth/next";
 import { authOptions } from "@/app/api/auth/[...nextauth]/route";
-import connectDB from '@/lib/db'; // Yahan lib/db.js istemal karein
+import connectDB from '@/lib/dbConnect'; // Yahan lib/db.js istemal karein
 import Product from '@/models/Product';
 import mongoose from 'mongoose';
 
